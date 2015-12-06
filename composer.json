@@ -28,7 +28,7 @@
         "issues": "https://github.com/wallabag/wallabag/issues"
     },
     "require": {
-        "php": ">=5.3.3",
+        "php": ">=5.5",
         "symfony/symfony": "~2.8",
         "doctrine/orm": "~2.3",
         "doctrine/doctrine-bundle": "~1.5",
